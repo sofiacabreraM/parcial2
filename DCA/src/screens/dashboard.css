@@ -1,0 +1,9 @@
+h1{
+    color: grey;
+}
+
+button{
+    border-radius: 2px;
+    color: white;
+    background-color: rgb(245, 63, 124);
+}
